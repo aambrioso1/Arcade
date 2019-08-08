@@ -2,12 +2,18 @@
 Asteroid Smasher
 
 Shoot space rocks in this demo program created with
-Python and the Arcade library.
+Python and the Arcade library.   The program can be found here:
+http://arcade.academy/examples/asteroid_smasher.html
+
+The library was created Paul Vincent Craven.
 
 Artwork from http://kenney.nl
 
 If Python and Arcade are installed, this example can be run from the command line with:
 python -m arcade.examples.asteroid_smasher
+
+Note:  I have save assets for this game in the repository.
+
 """
 import random
 import math
